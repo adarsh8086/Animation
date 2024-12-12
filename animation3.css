@@ -1,0 +1,46 @@
+body{
+    background-image: url(forest1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.r{
+    background-image: url(rabbit1.gif);
+    height: 150px;
+    width: 150px;
+    background-size: cover;
+    top: 300px;
+    bottom: 12px;
+    position: absolute;
+    left: 50px;
+    animation-name: chase;
+    animation-duration: 46s;
+    transition: ease-in;
+    
+    
+}
+.t{
+    background-image: url(torto3.gif);
+    height: 100px;
+    width: 100px;
+    background-size: cover;
+    background-position: center; 
+    position: absolute;
+    top: 400px;
+    animation-name: chase1;
+    animation-duration: 59s;
+
+}
+
+@keyframes chase{
+    0%{left: 5cm;}
+
+    30%{left: 600px }
+    100%{left: 2000px;}
+}
+
+
+@keyframes chase1{
+    0%{left: 5cm;}
+
+    100%{left: 2000px;}
+}
