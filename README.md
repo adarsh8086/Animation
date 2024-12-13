@@ -2,9 +2,6 @@
 
 This project is a simple HTML and CSS animation depicting the classic story of the rabbit and the tortoise. The animation demonstrates smooth transitions and movement to bring the characters to life.
 
-## 📜 Story Concept
-
-Inspired by the famous Aesop's fable, this animation showcases a race between a rabbit and a tortoise, highlighting the message: *"Slow and steady wins the race."*
 
 ## 🚀 Technologies Used
 
