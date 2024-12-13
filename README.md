@@ -6,7 +6,7 @@ This project is a simple HTML and CSS animation depicting the classic story of t
 ## 🚀 Technologies Used
 
 - **HTML5** for structure
-- **CSS3** for animations and styling
+- **CSS3** for animations(keyframe) and styling 
 
 ## 🎥 Demo
 
