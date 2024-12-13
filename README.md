@@ -12,9 +12,4 @@ This project is a simple HTML and CSS animation depicting the classic story of t
 
 Check out the live demo [here](https://adarsh8086.github.io/Animation/).
 
-## 📥 How to Run the Project
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/adarsh8086/Animation.git
